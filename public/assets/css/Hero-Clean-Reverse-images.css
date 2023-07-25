@@ -1,0 +1,18 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+  padding: 10px;
+  border-radius: 10px;
+  background: #212529;
+  align-items: center;
+}
+
+::selection {
+  background-color: #00000000;
+  color: #8f8c7e;
+}
+
